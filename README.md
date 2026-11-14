@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alexander 👋
 
-<!--
-**alexander-b-morland/alexander-b-morland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indøk student who'd rather build the thing than write the report about it.
 
-Here are some ideas to get you started:
+- Industrial Economics & CS/AI @ NTNU · visiting student @ MIT (fall 2026)
+- Co-founder of [Övobu Invest](https://ovobu.no), a student investment club at NTNU
+- Into startups, early-stage teams and coding with AI agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Things I've built
+
+<!-- Add as they ship. One line each: what it does + what was fun or hard about it.
+
+- **[Kubbe](link)**: a scheduling app for shared flats (showers, washing machine, the eternal dishwasher war).
 -->
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/alexander-bu-mørland-1358b4344/) · [Övobu](https://ovobu.no)
+
