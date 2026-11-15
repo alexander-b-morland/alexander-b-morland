@@ -8,6 +8,8 @@ Indøk student who'd rather build the thing than write the report about it.
 
 ## Things I've built
 
+- [bu-event.no](https://bu-event.no), a web-page for my mother's event firm. Check it out, maybe she can plan your (next) wedding!
+
 <!-- Add as they ship. One line each: what it does + what was fun or hard about it.
 
 - **[Kubbe](link)**: a scheduling app for shared flats (showers, washing machine, the eternal dishwasher war).
