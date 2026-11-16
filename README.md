@@ -20,6 +20,10 @@ Indøk student who'd rather build the thing than write the report about it.
 - **[Kubbe](link)**: a scheduling app for shared flats (showers, washing machine, the eternal dishwasher war).
 -->
 
+## Side-projects
+
+- [Optimization.click](https://opti-sooty.vercel.app/), my way of tackling a haggling optimization course @ MIT.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/alexander-bu-mørland-1358b4344/) · [Övobu](https://ovobu.no)
