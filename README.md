@@ -22,7 +22,7 @@ Indøk student who'd rather build the thing than write the report about it.
 
 ## Side-projects
 
-- [Optimization.click](https://opti-sooty.vercel.app/), my way of tackling a haggling optimization course @ MIT.
+- [Optimization.click](https://optimization.click/), my way of tackling a haggling optimization course @ MIT.
 
 ## Elsewhere
 
