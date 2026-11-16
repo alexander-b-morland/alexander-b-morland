@@ -9,6 +9,7 @@ Indøk student who'd rather build the thing than write the report about it.
 ## Things I'm building
 
 - **[Kubbe](https://github.com/alexander-b-morland/kubbe)**: a scheduling app for shared households. Book shower and laundry slots with your roommates. Work in progress.
+- **[City-bike optimizer](https://github.com/alexander-b-morland/city-bike)**: how to allocate city bikes over-night, so the latte drinkers don't complain that the rack is empty before their yoga class. Work in progress.
 
 ## Things I've built
 
