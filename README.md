@@ -6,6 +6,10 @@ Indøk student who'd rather build the thing than write the report about it.
 - Co-founder of [Övobu Invest](https://ovobu.no), a student investment club at NTNU
 - Into startups, early-stage teams and coding with AI agents
 
+## Things I'm building
+
+- **[Kubbe](https://github.com/alexander-b-morland/kubbe)**: a scheduling app for shared households. Book shower and laundry slots with your roommates. Work in progress.
+
 ## Things I've built
 
 - [bu-event.no](https://bu-event.no), a web-page for my mother's event firm. Check it out, maybe she can plan your (next) wedding!
